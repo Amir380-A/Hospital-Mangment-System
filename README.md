@@ -1,6 +1,6 @@
 # Hospital-Mangment-System
 
-This a Hospital Management System made for Database course in University.
+This is a Hospital Management System made for my Database course in University.
 
 
 
